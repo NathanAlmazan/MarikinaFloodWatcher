@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989212006414",
+    "project_id": "quiet-pagoda-420602",
+    "storage_bucket": "quiet-pagoda-420602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989212006414:android:1a4595c3bc794b48a0c45f",
+        "android_client_info": {
+          "package_name": "com.floodalert.disafeter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCug-duQ6HalPV_JGb-0EtOjk3i81xidi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

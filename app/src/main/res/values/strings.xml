@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RiverCast</string>
+    <string name="evacuate_hero_banner">Find the Closest Evacuation Center To You</string>
+    <string name="hero_image">hero banner image</string>
+    <string name="button_icon">button icon</string>
+    <string name="evacuation_centers">Evacuation Centers</string>
+    <string name="profile_icon">account profile icon</string>
+    <string name="location_permission_warning">To use this feature. Please enable location permission first. Thank you</string>
+    <string name="channel_name">Flood Alert</string>
+    <string name="channel_description">Alert for Barangay Flood Levels</string>
+</resources>
